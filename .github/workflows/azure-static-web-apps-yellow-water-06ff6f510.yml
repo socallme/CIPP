@@ -45,4 +45,3 @@ jobs:
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_YELLOW_WATER_06FF6F510 }} # change this to your repository secret name
           action: "close"
-azure-static-web-apps-yellow-water-06ff6f510.yml
